@@ -1,3 +1,3 @@
 
 
-<p class="text-danger">Este es un Footer</p>
+<p class="text-decoration-underline">Este es un Footer</p>
